@@ -1,2 +1,2 @@
-# Brain-Tumor-Detection-usin-Canny-Edge-Technique
-Using Canny Edge Technique and Convolutional Neural Network to detect brain tumor in MRI scan
+# Brain-Tumor-Detection-using-Canny-Edge-Technique-and-CNN
+Using Canny Edge Technique and Convolutional Neural Network to detect brain tumor in MRI scan.
